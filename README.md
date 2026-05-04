@@ -33,4 +33,4 @@ The dashboard answers key business questions such as:
 - Highlighted profit vs revenue gaps
 
 ## 📷 Dashboard Preview
-Assets/Coffee-Sales-Dashboard.png
+![Dashboard Preview](Assets/Coffee-Sales-Dashboard.png)
